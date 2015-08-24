@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<WebModule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" id="0fe99efd-e5f1-42ff-8abc-7b9a1c0c0645">
+  <InstanceId>097d965472c44a5d8685bc0e0d24ef70</InstanceId>
+  <ModuleTypeName>SampleActivityModule.ScriptOutputModule, SampleActivityModule</ModuleTypeName>
+  <RunInMode />
+  <AllowRoles />
+  <Scope>Page</Scope>
+</WebModule>
